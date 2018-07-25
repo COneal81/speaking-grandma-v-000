@@ -1,6 +1,6 @@
 def speak_to_grandma(hi)
   if hi == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+    return "I LOVE YOU TOO PUMPKIN!"
   elsif i_love_you_grandma.uppercase
   puts "HUH?! SPEAK UP, SONNY!".uppercase
   elsif i_love_you_grandma
