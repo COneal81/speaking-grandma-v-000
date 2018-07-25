@@ -1,6 +1,9 @@
 def speak_to_grandma(hi)
-  
-  
+  if hi 
+    return "HUH?! SPEAK UP, SONNY!"
+  elsif hi.uppercase
+  return "NO, NOT SINCE 1938!"
+end
 end
 
 
