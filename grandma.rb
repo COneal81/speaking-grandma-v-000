@@ -5,10 +5,10 @@ def speak_to_grandma(hi)
     return "HUH?! SPEAK UP, SONNY!"
   elsif hi == "Hi Nana, how are you?"
     return "HUH?! SPEAK UP, SONNY!"
-  elsif i_love_you_grandma.uppercase
-    puts"NO, NOT SINCE 1938!".uppercase
-    else i_love_you_grandma.uppercase
-      puts "I LOVE YOU TOO PUMPKIN!".uppercase
+  elsif hi = "WHAT DID YOU EAT TODAY?"
+    return "NO, NOT SINCE 1938!"
+    else hi = "WHAT DID YOU EAT TODAY?"
+    return "WHAT?"
 end
 end
 
