@@ -8,7 +8,7 @@ def speak_to_grandma(i_love_you_grandma)
   elsif i_love_you_grandma.uppercase
     return"NO, NOT SINCE 1938!".uppercase
     else i_love_you_grandma.uppercase
-      return ""
+      return "I LOVE YOU TOO PUMPKIN!".uppercase
 end
 end
 
