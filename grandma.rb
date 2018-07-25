@@ -3,8 +3,7 @@ def speak_to_grandma(i_love_you_grandma)
     return "HUH?! SPEAK UP, SONNY!"
   elsif i_love_you_grandma.uppercase
   return "I LOVE YOU TOO PUMPKIN!"
-else hi =="I LOVE YOU GRANDMA!"
-  return "I LOVE YOU TOO PUMPKIN!"
+
 end
 end
 
