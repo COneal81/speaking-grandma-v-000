@@ -1,8 +1,10 @@
 def speak_to_grandma(i_love_you_grandma)
-  if i_love_you_grandma.uppercase
+  if i_love_you_grandma
     return "HUH?! SPEAK UP, SONNY!".downcase
   elsif i_love_you_grandma.uppercase
-  return "NO, NOT SINCE 1938!"
+  return "HUH?! SPEAK UP, SONNY!".uppercase
+  elsif i_love_you_grandma
+    return ""
 
 end
 end
