@@ -1,13 +1,13 @@
 def speak_to_grandma
   if 
   elsif i_love_you_grandma.uppercase
-  return "HUH?! SPEAK UP, SONNY!".uppercase
+  puts "HUH?! SPEAK UP, SONNY!".uppercase
   elsif i_love_you_grandma
-    return "NO, NOT SINCE 1938!".downcase
+    puts "NO, NOT SINCE 1938!".downcase
   elsif i_love_you_grandma.uppercase
-    return"NO, NOT SINCE 1938!".uppercase
+    puts"NO, NOT SINCE 1938!".uppercase
     else i_love_you_grandma.uppercase
-      return "I LOVE YOU TOO PUMPKIN!".uppercase
+      puts "I LOVE YOU TOO PUMPKIN!".uppercase
 end
 end
 
